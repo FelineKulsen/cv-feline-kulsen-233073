@@ -15,8 +15,10 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 h1{color:#DAB4E3}
+/*my clor change*/
 
 .myclass{color:lightpink;}
+/*my own class*/
 
 
 .resume-header {
@@ -29,6 +31,8 @@ h1{color:#DAB4E3}
 
 .resume-aside {
 	background-color: #fff0e0;
+	
+
 }
 
 /* Styles for lists in the document */
@@ -56,9 +60,5 @@ h1{color:#DAB4E3}
 	flex-basis: 1.4em;
 }
 
-.anta-regular {
-  font-family: "Anta", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
+
 
