@@ -30,7 +30,7 @@ h1{color:#DAB4E3}
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E4CEFF;
 	
 
 }
@@ -51,6 +51,10 @@ h1{color:#DAB4E3}
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
+}
+
+.language-progress {
+	background-color: mediumpurple;
 }
 
 /* Styles for contact icons */
