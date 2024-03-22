@@ -88,3 +88,9 @@ h5 {
 }
 
 /*my font changes*/
+
+.miltonian-regular {
+  font-family: "Miltonian", serif;
+  font-weight: 400;
+  font-style: normal;
+}
